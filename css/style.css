@@ -1,0 +1,42 @@
+
+.container{
+    width: 1140px;
+   height: 1000px;
+    background-color: rgb(00,00,00 );
+    
+}
+a{
+    color: #fff;
+}
+/*h1*/
+h1{
+    color: #fff;
+}
+
+#head{
+    font-size: 18px;
+    color: blue;
+}
+
+.title{
+    border: 5px solid blue;
+}
+
+.bg_light{
+    font-size: 20px;
+}
+ul{
+    color: #fff;
+}
+/*p*/
+p{
+    color: #fff;
+}
+form{
+    color: #fff;
+}
+
+span{
+    font-size: 20px;
+    color:#0000ff;
+}
